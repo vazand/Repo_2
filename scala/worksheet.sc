@@ -14,3 +14,5 @@ def printWord_count(count_word:Map[String,Int]):Unit={
 }
 val word_count = readFile()
 printWord_count(word_count)
+
+//
